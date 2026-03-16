@@ -1,2 +1,2 @@
 # Reward
-2414124
+Block validation payout
